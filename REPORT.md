@@ -16,7 +16,7 @@ The feature "datetime" was hourly information so I added data for "year", "month
 Additionally, "season" and "weather" were transformed to categorical type.
 
 ### How much better did your model preform after adding additional features and why do you think that is?
-My model's performance improved by 58 points, from the initial model of 76.65 to the model with additional features of 19. It resulted in a RMSE score of 1.80608 to 0.703. Ideally, we want our RMSE score to be within 0 and 1. I think the additional features which changed data types into true categorical datatypes and the feature of ignoring the "casual" and "registered" columns helped with reducing multicolinearity and improved interpretability.
+My model's performance improved by 22.68 points, from the initial model of 76.65 to the model with additional features of 19. It resulted in a RMSE score of 1.80608 to 0.703. Ideally, we want our RMSE score to be within 0 and 1. I think the additional features which changed data types into true categorical datatypes and the feature of ignoring the "casual" and "registered" columns helped with reducing multicolinearity and improved interpretability.
 
 ## Hyper parameter tuning
 ### How much better did your model preform after trying different hyper parameters?
