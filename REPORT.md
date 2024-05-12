@@ -36,7 +36,7 @@ If I were given more time, I would perhaps try some more different model algorit
 
 
 
-![model_train_score.png]()
+![model_train_score.png](train_img.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
