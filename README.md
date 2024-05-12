@@ -36,13 +36,13 @@ If I were given more time, I would perhaps try some more different model algorit
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](train_img.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](test_img.png)
 
 ## Summary
 For this project, I was able to use AutoGluon to train a regression model for predicting bike sharing demand and get a feel for what it's like to enter a Kaggle competition. The project was implemented in AWS Sagemaker Studio.
